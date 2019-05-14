@@ -6,7 +6,13 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+     1. Naufal Pranasetyo F.   05111540000057
+     2. Muhammad Akram A.      05111540000050
+     3. Hilmi Raditya P.       05111640000164
+    
+---
 One to two paragraph statement about your product and what it does.
+
 *miring*
 - wkwk
 * wkwk
@@ -14,10 +20,12 @@ One to two paragraph statement about your product and what it does.
    - **Naufal Pranasetyo   05111540000057**
    - **Testing             05111540000050**
 
+
 Database yang digunakan: 
 1. [MongoDB](https://www.mongodb.com/)
 2. [MongoDB Compass - GUI untuk melihat database](https://www.mongodb.com/download-center/compass?jmp=docs/)
 ![](header.png)
+
 
 ## Installation
 
